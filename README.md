@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambhajigade&show_icons=true&locale=en&layout=compact" alt="sambhajigade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambhajigade&show_icons=true&locale=en" alt="sambhajigade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambhajigade&" alt="sambhajigade" /></p>
